@@ -424,7 +424,7 @@ body.darkmode .wel-infro input {
   background-color: transparent;
   border: 1px solid var(--main-color);
   caret-color: #FFF;
-  color: var(--main-color);
+  color: #f2f2f2;
 }
 
 @media(max-width:992px) {
